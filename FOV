@@ -1,0 +1,4 @@
+print("script by 703OPPOSITION")
+print("cory#5366")
+
+workspace.CurrentCamera.FieldOfView = 100 --change this to whatever number you want
